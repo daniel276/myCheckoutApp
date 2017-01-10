@@ -7,6 +7,8 @@ import android.view.View;
 import android.widget.EditText;
 import android.widget.Toast;
 
+//HI ITS ME MARIO
+
 public class loginPage extends AppCompatActivity {
 
     @Override
