@@ -32,7 +32,7 @@ public class loginPage extends AppCompatActivity {
     }
 
     public boolean isValid(String username,String password){
-        if(username.equals("admin") && password.equals("passwurd"))
+        if(username.equals("admin") && password.equals("passwurd")) // equals object will be replaced by matching user's username and password stored in sqLite
             return true;
         else
             return false;
